@@ -11,13 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Ph.D Student, Princeton University, Princeton, NJ,   2018 – Present
-B.A. in Mathematics,Columbia University, New York, NY  2014
-A.A. in Arabic Language, Defense Language Institute, Monterey, CA	  2010
+* Ph.D Student, Princeton University, Princeton, NJ,   2018 – Present
+* B.A. in Mathematics,Columbia University, New York, NY  2014
+* A.A. in Arabic Language, Defense Language Institute, Monterey, CA	  2010
 
 
 Publications
