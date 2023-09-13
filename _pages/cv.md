@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* Ph.D Student, Princeton University, Princeton, NJ,   2018 – Present
-* B.A. in Mathematics,Columbia University, New York, NY  2014
-* A.A. in Arabic Language, Defense Language Institute, Monterey, CA	  2010
+* Ph.D Geosciences, Princeton University, Princeton, NJ,   2018 – Present
+* B.A. Mathematics, Columbia University, New York, NY  2014
+* A.A. Arabic Language, Defense Language Institute, Monterey, CA	  2010
 
 
 Publications
