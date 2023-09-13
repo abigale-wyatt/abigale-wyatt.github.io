@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 PDF version here:
-http://abigale-wyatt.github.io/files//Curriculum vitae.docx (1).pdf
+http://abigale-wyatt.github.io/files//Curriculum_vitae.docx_(1).pdf
 
 {% include base_path %}
 
