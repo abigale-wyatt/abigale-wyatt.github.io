@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Abigale Wyatt.
+Hello! 
+
+I'm Abigale Wyatt.
 
 I am currently a PhD candidate in [Resplandy group](http://resplandy.princeton.edu/) at Princeton University. 
 
