@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+PDF version here:
+http://abigale-wyatt.github.io/files//Curriculum vitae.docx (1).pdf
 
 {% include base_path %}
 
