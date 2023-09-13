@@ -6,10 +6,10 @@ excerpt: 'Fluxes of major bioelements associated with sinking particles were qua
 date: 2021-06-28
 venue: 'Elementa: Science of the Anthropocene'
 paperurl: 'http://academicpages.github.io/files/Concentrations_ratios_and_sinking_fluxes_of_major_.pdf'
-citation: 'Roca-Mart ́ ı, M, et al. 2021. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. ElemSciAnth,9: 1. DOI: https://doi.org/10.1525/elementa.2020.00166'
+citation: 'Roca-Martí, M. et al. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. Elementa: Science of the Anthropocene 9, 00166 (2021).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://abigale-wyatt/.github.io/files/Concentrations_ratios_and_sinking_fluxes_of_major_.pdf)
 
-Recommended citation: Roca-Mart ́ ı, M, et al. 2021. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. ElemSciAnth,9: 1. DOI: https://doi.org/10.1525/elementa.2020.00166
+Recommended citation: Roca-Martí, M. et al. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. Elementa: Science of the Anthropocene 9, 00166 (2021).
