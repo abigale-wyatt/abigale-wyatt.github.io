@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Academic Page"
+title: "Abigale Wyatt's Research Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
-
-I'm Abigale Wyatt.
+Hello! I'm Abigale.
 
 I am currently a PhD candidate in [Resplandy group](http://resplandy.princeton.edu/) at Princeton University. 
 
