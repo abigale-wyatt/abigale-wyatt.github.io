@@ -6,9 +6,11 @@ excerpt: 'The EXport Processes in the Ocean from RemoTe Sensing (EXPORTS) progra
 date: December 10, 2020
 venue: 'Elementa: Science of the Anthropocene'
 paperurl: 'files/High-resolution_spatial_and_temporal_measurements_.pdf'
-citation: 'Buesseler, KO, et al. 2020. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elem Sci Anth, 8: 1. DOI: https://doi.org/10.1525/elementa.030'
+citation: 'Buesseler, K. O. et al. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elementa: Science of the Anthropocene 8, (2020).
+'
 ---
 
 [Download paper here](http://abigale-wyatt.github.io/files//High-resolution_spatial_and_temporal_measurements_.pdf)
 
-Recommended citation: 'Buesseler, KO, et al. 2020. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elem Sci Anth, 8: 1. DOI: https://doi.org/10.1525/elementa.030'
+Recommended citation: 'Buesseler, K. O. et al. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elementa: Science of the Anthropocene 8, (2020).
+'
