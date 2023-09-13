@@ -16,6 +16,3 @@ I am currently a PhD candidate in [Resplandy group](http://resplandy.princeton.e
 My research interests include biogeochemical ocean modeling, coupled models of ocean and climate interaction, upper ocean ecosystem dynamics and nutrient cycling, biological carbon export and the biological carbon pump. 
 
 I am also very interested in teaching, outreach and science communication in general. 
-
-
-http://abigale-wyatt.github.io/files//google7e071f3591335536.html
