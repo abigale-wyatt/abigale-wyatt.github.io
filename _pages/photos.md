@@ -28,9 +28,10 @@ That's me explaining how Taylor columns form in a rotating fluid at the Independ
 We were able to produce some baroclinic instabilities at our Seaport Museum visit in Philly! 
 
 
-
+<p align="left">
 <video src='../imgs/VID_20180811_135310728.mp4' width=380/>
-
+</p>
+  
 Timelapse video deploying a pump at sea. 
 
 
