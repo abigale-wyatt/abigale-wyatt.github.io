@@ -29,7 +29,7 @@ We were able to produce some baroclinic instabilities at our Seaport Museum visi
 
 
 <p align="left">
-<video src='../images/VID_20180811_135310728.mp4' width=380/> </video>
+<video src='../images/VID_20180811_135310728.mp4' width=380/>
 </p>
   
 Timelapse video deploying a pump at sea. 
