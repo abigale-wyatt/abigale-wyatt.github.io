@@ -25,7 +25,7 @@ That's me explaining how Taylor columns form in a rotating fluid at the Independ
   <img src="../images/IMG_20190608_131643732_HDR.jpg" width="550" title="ISM Outreach" >
 </p>
 
-Check out those baroclinic instabilities! 
+We were able to produce some baroclinic instabilities at our Seaport Museum visit in Philly! 
 
 
 
