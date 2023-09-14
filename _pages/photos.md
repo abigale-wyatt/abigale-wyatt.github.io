@@ -5,13 +5,20 @@ title: "Photo page"
 author_profile: true
 ---
 
-<p align="center">
+
+
+<p align="left">
+  <img src="../images/PXL_20230816_133859063.jpg" width="350" title="TigerCPU" >
+</p>
+Hanging out with the TIGER supercomputer that I do my modeling on at Princeton.
+
+<p align="left">
   <img src="../images/IMG_20180908_133001286_PORTRAIT.jpg" width="350" title="Aboard the R/V Sally Ride with my Zissou cap" >
 </p>
 
 Rocking the Zissou cap my first time at sea on the R/V Sally Ride in 2018
 
-<p align="center">
+<p align="left">
 <img src="../images/Profile pic.jpg" width="350" title="Heading out of Seattle on the R/V Sally Ride" >
 </p>
 
