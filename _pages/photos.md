@@ -29,6 +29,12 @@ We were able to produce some baroclinic instabilities at our Seaport Museum visi
 
 
 
+<video src='../imgs/VID_20180811_135310728.mp4' width=380/>
+
+Timelapse video deploying a pump at sea. 
+
+
+
 <p align="left">
   <img src="../images/IMG_20180908_133001286_PORTRAIT.jpg" width="350" title="Aboard the R/V Sally Ride with my Zissou cap" >
 </p>
