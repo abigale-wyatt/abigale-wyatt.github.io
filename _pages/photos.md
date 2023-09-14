@@ -6,11 +6,17 @@ author_profile: true
 ---
 
 
+<p align="left">
+  <img src="../images/PXL_20230816_133859063.jpg" width="450" title="TigerCPU" >
+</p>
+
+Hanging out with the TIGER supercomputer that I do my modeling on at Princeton.
 
 <p align="left">
   <img src="../images/PXL_20230816_133859063.jpg" width="450" title="TigerCPU" >
 </p>
-Hanging out with the TIGER supercomputer that I do my modeling on at Princeton.
+
+That's me explaining how Taylor columns form in a rotating fluid at the Independence Seaport Museum
 
 <p align="left">
   <img src="../images/IMG_20180908_133001286_PORTRAIT.jpg" width="350" title="Aboard the R/V Sally Ride with my Zissou cap" >
