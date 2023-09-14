@@ -8,7 +8,7 @@ author_profile: true
 
 
 <p align="left">
-  <img src="../images/PXL_20230816_133859063.jpg" width="350" title="TigerCPU" >
+  <img src="../images/PXL_20230816_133859063.jpg" width="450" title="TigerCPU" >
 </p>
 Hanging out with the TIGER supercomputer that I do my modeling on at Princeton.
 
