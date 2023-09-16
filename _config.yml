@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+header                   : images/IMG_20180908_103034081_HDR.jpg
 locale                   : "en-US"
 title                    : "Abigale Wyatt's Website"
 title_separator          : "-"
