@@ -43,10 +43,3 @@ Timelapse video deploying a pump at sea.
 Rocking the Zissou cap my first time at sea on the R/V Sally Ride in 2018
 
 
-
-<p align="left">
-<img src="../images/Profile pic.jpg" width="350" title="Heading out of Seattle on the R/V Sally Ride" >
-</p>
-
-Heading out of Seattle on the R/V Sally Ride, 2018
-
