@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 layout: home
 ---
+<meta name="google-site-verification" content="wflcao7X2J4KLqDBTSJd8he1TBSp8xse6XHpN793NTQ" />
 
 Hello! I'm Abigale.
 
