@@ -9,6 +9,6 @@ venue: 'Elementa: Science of the Anthropocene'
 citation: 'Roca-Martí, M. et al. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. Elementa: Science of the Anthropocene 9, 00166 (2021).'
 ---
 
-[Download paper here](http://abigale-wyatt/.github.io/files/Concentrations_ratios_and_sinking_fluxes_of_major_.pdf)
+[Download paper here](http://abigale-wyatt/.github.io/files//Concentrations_ratios_and_sinking_fluxes_of_major_.pdf)
 
 Recommended citation: Roca-Martí, M. et al. Concentrations, ratios, and sinking fluxes of major bioelements at Ocean Station Papa. Elementa: Science of the Anthropocene 9, 00166 (2021).
