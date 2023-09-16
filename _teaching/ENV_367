@@ -1,20 +1,20 @@
 ---
-title: "A"
+title: "Assistant Instructor ENV-367"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Class"
 permalink: /teaching/ENV_367
-venue: "University 1, Department"
+venue: "Princeton, University"
 date: 2015-01-01
-location: "City, Country"
+location: "Princeton, NJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I helped design and lead this course on earth system modeling for students interested in global environmental issues. Students used results from a climate model emulator to examine how the system responds to human activities and natural climate variations. 
 
-Heading 1
+Concepts and Activties
 ======
+- Introduction to data analysis and visualization Python
+- Climate Modeling 
+- [MAGICC Climate Emulator](https://live.magicc.org/) 
+- [En-ROADS Simulator](https://www.climateinteractive.org/en-roads/)
+- [International Panel on Climate Change (IPCC) Working Group 3 Mitigation Strategies](https://www.ipcc.ch/working-group/wg3/)
 
-Heading 2
-======
-
-Heading 3
-======
