@@ -42,3 +42,4 @@ Service and leadership
 * Princeton Energy and Climate Scholars Fellow (PECS) 2021-2024
 * Princeton Women in Geosciences (PWiGS) coordinator and member 2018-2023
 * Geosciences Education and Mentorship Support mentor 2022-2024
+* AGU Voices for Science Policy Fellow 2018-2019
