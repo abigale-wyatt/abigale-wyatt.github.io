@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abigale Wyatt's Research Page"
+title: "Abigale Wyatt"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
