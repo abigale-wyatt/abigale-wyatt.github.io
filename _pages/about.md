@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 layout: home
 header:
-    overlay_image: /images/IMG_20180908_103034081_HDR.jpg
+    overlay_image: ../images/IMG_20180908_103034081_HDR.jpg
     caption: "*The Gulf of Alaska seen from the R/V Sally Ride, 2018*"
 
 ---
