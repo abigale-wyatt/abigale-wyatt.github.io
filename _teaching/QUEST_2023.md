@@ -8,7 +8,7 @@ date: 2023-07-20
 location: "Princeton, NJ"
 ---
 
-Questioning Underlies Effective Science Teaching [QUEST](https://teacherprep.princeton.edu/quest) with Princeton Teacher Prep. This innovative program is designed to enhance teachers' knowledge of science and mathematics through laboratory experiments and experiences aligned with the Next Generation Science Standards. 
+Questioning Underlies Effective Science Teaching [(QUEST)](https://teacherprep.princeton.edu/quest) with Princeton Teacher Prep. This innovative program is designed to enhance teachers' knowledge of science and mathematics through laboratory experiments and experiences aligned with the Next Generation Science Standards. 
 
 Topics and activities
 ======
