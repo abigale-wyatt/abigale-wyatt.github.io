@@ -8,7 +8,7 @@ date: 2023-07-20
 location: "Princeton, NJ"
 ---
 
-My summer's at Princeton are all about teaching K-12 teachers about climate change via Questioning Underlies Effective Science Teaching [QUEST](https://teacherprep.princeton.edu/quest) with Princeton Teacher Prep. This innovative program is designed to enhance teachers' knowledge of science and mathematics through laboratory experiments and experiences aligned with the Next Generation Science Standards. The program is co-taught by current researchers and teachers to support the development of teachers’ skills to apply science/math content knowledge in their classroom and increases teachers’ enthusiasm, knowledge and confidence in teaching science and math. My work included curriculum development and planning, plus hands on teaching of two dozen teachers. 
+Questioning Underlies Effective Science Teaching [QUEST](https://teacherprep.princeton.edu/quest) with Princeton Teacher Prep. This innovative program is designed to enhance teachers' knowledge of science and mathematics through laboratory experiments and experiences aligned with the Next Generation Science Standards. 
 
 Topics and activities
 ======
