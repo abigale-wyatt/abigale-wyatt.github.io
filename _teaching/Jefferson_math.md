@@ -1,5 +1,5 @@
 ---
-title: "Assistant Instructor ENV-367"
+title: "Adjunct Instructor Math 102"
 collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/Jefferson_math
