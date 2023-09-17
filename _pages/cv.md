@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[PDF version here:](http://abigale-wyatt.github.io/files//Curriculum_vitae.pdf)
+[PDF here:](http://abigale-wyatt.github.io/files//Curriculum_vitae.pdf)
 
 {% include base_path %}
 
@@ -25,11 +25,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+<!Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> >
   
 Teaching
 ======
