@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/Jefferson_math
 venue: "Jefferson University"
-date: 2017 - 2018
+date: 09-01-2017
 location: "Philadelphia, PA"
 ---
 
