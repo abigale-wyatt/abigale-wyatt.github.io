@@ -2,7 +2,7 @@
 title: "QUEST 2023"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/QUEST_2023.md
+permalink: /teaching/QUEST_2023
 venue: "Princeton University"
 date: 2023-07-20
 location: "Princeton, NJ"
