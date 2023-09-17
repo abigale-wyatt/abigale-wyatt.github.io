@@ -1,0 +1,19 @@
+---
+title: "Assistant Instructor ENV-367 2023"
+collection: teaching
+type: "Undergraduate Class"
+permalink: /teaching/ENV_367
+venue: "Princeton University"
+date: 2023-09-01
+location: "Princeton, NJ"
+---
+
+I helped design and lead this course on earth system modeling for students interested in global environmental issues. Students used results from a climate model emulator to examine how the system responds to human activities and natural climate variations. 
+
+Concepts and Activties
+======
+- Introduction to data analysis and visualization Python
+- Climate Modeling 
+- [MAGICC Climate Emulator](https://live.magicc.org/) 
+- [En-ROADS Simulator](https://www.climateinteractive.org/en-roads/)
+- [International Panel on Climate Change (IPCC) Working Group 3 Mitigation Strategies](https://www.ipcc.ch/working-group/wg3/)
