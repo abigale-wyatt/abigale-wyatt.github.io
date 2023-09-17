@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[PDF here:](http://abigale-wyatt.github.io/files//Curriculum_vitae.pdf)
+PDF [here](http://abigale-wyatt.github.io/files//Curriculum_vitae.pdf)
 
 {% include base_path %}
 
