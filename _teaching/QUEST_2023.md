@@ -12,9 +12,9 @@ Questioning Underlies Effective Science Teaching [(QUEST)](https://teacherprep.p
 
 Topics and activities
 ======
-- Greenhouse Gasses and Climate Change kinesthetic activity
-- Carbon Uptake in the Land Sink via Plant Photosynthesis with CO_2 meters
-- Climate Mitigation Strategies
-    - e.g. Urban Roof Painting as Solar Radiation Management
-- Climate Modeling with [EN-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=23.9.0)
+- Greenhouse gasses and climate change kinesthetic activity
+- Carbon uptake in the land sink via plant photosynthesis with CO_2 meters
+- Climate mitigation strategies
+    - e.g. Urban roof painting as Solar Radiation Management (SRM)
+- Climate modeling with [EN-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=23.9.0)
 - Field trip to Princeton High Performance Computing Research Center (HPCRC)
