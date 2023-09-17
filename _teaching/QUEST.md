@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/QUEST
 venue: "Princeton University"
-date: Summer 2022 & 2023
+date: 08-20-2022
 location: "Princeton, NJ"
 ---
 
