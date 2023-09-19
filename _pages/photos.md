@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /photos/
-title: "Photo page"
+title: "Photo Gallery"
 author_profile: true
 ---
 
