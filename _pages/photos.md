@@ -17,7 +17,7 @@ Hanging out with the TIGER supercomputer that I do my modeling on at Princeton.
 <p align="left">
   <img src="../images/IMG_20190608_143703.jpg" width="550" title="ISM Outreach" >
 </p>
-That's me explaining how Taylor columns form in a rotating fluid at the Independence Seaport Museum
+That's me explaining how Taylor columns form in a rotating fluid at the Independence Seaport Museum.
 
 
 
@@ -40,6 +40,6 @@ Timelapse video deploying a pump at sea.
   <img src="../images/IMG_20180908_133001286_PORTRAIT.jpg" width="350" title="Aboard the R/V Sally Ride with my Zissou cap" >
 </p>
 
-Rocking the Zissou cap my first time at sea on the R/V Sally Ride in 2018
+Rocking the Zissou cap my first time at sea on the R/V Sally Ride in 2018.
 
 
