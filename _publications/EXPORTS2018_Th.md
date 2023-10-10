@@ -11,5 +11,4 @@ venue: 'Elementa: Science of the Anthropocene'
 
 [Download paper here](http://abigale-wyatt.github.io/files//High-resolution_spatial_and_temporal_measurements_.pdf)
 
-Recommended citation: 'Buesseler, K. O. et al. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elementa: Science of the Anthropocene 8, (2020).
-'
+Recommended citation: 'Buesseler, K. O. et al. High-resolution spatial and temporal measurements of particulate organic carbon flux using thorium-234 in the northeast Pacific Ocean during the EXport Processes in the Ocean from RemoTe Sensing field campaign. Elementa: Science of the Anthropocene 8, (2020).'
