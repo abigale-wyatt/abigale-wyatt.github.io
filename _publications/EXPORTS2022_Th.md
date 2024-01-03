@@ -6,8 +6,7 @@ excerpt: 'Here we explain the contrast between the subpolar NE Pacific and the t
 date: 2024-01-01
 venue: 'Marine Chemistry'
 #paperurl: 'https://authors.elsevier.com/c/1iLHU15DvXDmHD'
-#citation: 'Samantha J. Clevenger, Claudia R. Benitez-Nelson, Montserrat Roca-Martí, Wokil Bam, Margaret Estapa, Jennifer A. Kenyon, Steven Pike, Laure Resplandy, Abigale Wyatt, Ken O. Buesseler,
-Carbon and silica fluxes during a declining North Atlantic spring bloom as part of the EXPORTS program,
+#citation: 'Samantha J. Clevenger, Claudia R. Benitez-Nelson, Montserrat Roca-Martí, Wokil Bam, Margaret Estapa, Jennifer A. Kenyon, Steven Pike, Laure Resplandy, Abigale Wyatt, Ken O. Buesseler, Carbon and silica fluxes during a declining North Atlantic spring bloom as part of the EXPORTS program,
 Marine Chemistry,
 Volume 258,
 2024,
