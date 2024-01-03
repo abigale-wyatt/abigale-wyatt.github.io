@@ -2,7 +2,7 @@
 title: "Carbon and silica fluxes during a declining North Atlantic spring bloom as part of the EXPORTS program"
 collection: publications
 permalink: /publication/EXPORTS2022
-excerpt: 'Here we explain the contrast between the subpolar NE Pacific and the transition zone to the south of it using a global ocean biogeochemical model (MOM6-COBALT) with Argo float and ship-based observations to investigate how MHWs influence marine productivity. '
+excerpt: 'Here we explain the contrast between the subpolar NE Pacific and the transition zone to the south of it using a global ocean biogeochemical model (MOM6-COBALT) with Argo float and ship-based observations to investigate how MHWs influence marine productivity.'
 date: 2024-01-01
 venue: 'Marine Chemistry'
 #paperurl: 'https://authors.elsevier.com/c/1iLHU15DvXDmHD'
