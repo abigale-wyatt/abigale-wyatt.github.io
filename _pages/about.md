@@ -18,7 +18,7 @@ Hello World!
 
 I'm Abigale.
 
-I'm a postdoctoral research scientist at [\[C\]Worthy](https://www.cworthy.org/), a non-profit company building software to supports multi-scale oceanographic modeling and data integration for quantifying the efficacy and ecological impacts of ocean-based carbon dioxide removal (CDR). 
+I'm a postdoctoral research scientist at [\[C\]Worthy](https://www.cworthy.org/), a non-profit company building software to support multi-scale oceanographic modeling and data integration for quantifying the efficacy and ecological impacts of ocean-based carbon dioxide removal (CDR). 
 
 In general, my research uses models and statisical tools to study how ocean physics and climate variability impact surface ocean biogeochemistry. My interests include coupled models of ocean and climate interaction, biogeochemical ocean modeling, and especially ocean carbon cycles. 
 PhD from [Resplandy group](http://resplandy.princeton.edu/) at Princeton University. 
