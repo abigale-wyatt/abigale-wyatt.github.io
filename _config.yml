@@ -70,6 +70,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+linkedin_username: amwyatt
 
 
 # Analytics
@@ -103,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : amwyatt
+  LinkedIn         : "www.linkedin.com/in/amwyatt"
  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
