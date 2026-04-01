@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF [here](http://abigale-wyatt.github.io/files//Curriculum_vitae.pdf)
+PDF [here](http://abigale-wyatt.github.io/files//Curriculum_vitae_2026.pdf)
 
 {% include base_path %}
 
@@ -39,6 +39,7 @@ Teaching
   
 Service and leadership
 ======
+* COMPASS mCDR Communication Leader 2025-2027
 * Princeton Energy and Climate Scholars Fellow (PECS) 2021-2024
 * Princeton Women in Geosciences (PWiGS) coordinator and member 2018-2023
 * Geosciences Education and Mentorship Support mentor 2022-2024
